@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Mohit Kamboj 👋</h1>
+<h1 align="center"> Mohit Kamboj </h1>
 
 <p align="center">
   <b>Cloud Engineer | DevOps Engineer | DevSecOps Engineer</b><br/>
@@ -14,21 +14,16 @@
 
 ---
 
-## 👨‍💻 Bio
-
-☁️ Cloud | DevOps | DevSecOps Engineer | AWS • Azure • GCP | Docker • K8s • Terraform • CI/CD • IaC | Securing & automating cloud infrastructure 🔐
-
----
-
 ## 🚀 About Me
 
-- ☁️ Working with **AWS, Azure & GCP** — cloud infrastructure and deployments
+- 💼 **DevOps Engineer Intern @ Mactores** | Ex Cloud Admin @ Amazl Inc (1.5 yrs)
+- ☁️ Working across **AWS, Azure & GCP** — cloud infrastructure and deployments
 - 🔧 Building with **Docker, Kubernetes, Jenkins, Helm & Terraform**
-- 🔐 Exploring **DevSecOps** — security scanning with Trivy/Snyk & SonarQube
-- 📊 Monitoring stacks with **Prometheus & Grafana**
-- 🤖 Automating infrastructure with **Ansible & IaC**
-- 🌱 Continuously growing in **cloud-native & secure pipeline engineering**
-- 📍 Based in **Gurgaon, India**
+- 🔐 DevSecOps — security scanning with Trivy, Snyk & SonarQube
+- 📊 Monitoring with **Prometheus, Grafana, Zabbix & CloudWatch**
+- 🤖 Automating infrastructure with **Ansible & Terraform IaC**
+- 🎓 BSc Web/Multimedia | AWS Solutions Architect Associate | Anthropic CCA-F Certified
+- 📍 Based in **Karnal, Haryana, India**
 
 ---
 
