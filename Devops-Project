@@ -1,0 +1,107 @@
+# 🚀 DevOps Project — CI/CD Pipeline with Docker & Kubernetes
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+</p>
+
+A complete **end-to-end DevOps pipeline** featuring a Python application containerized with Docker, deployed on Kubernetes, and automated with a Jenkins CI/CD pipeline.
+
+---
+
+## 📁 Project Structure
+
+```
+devops-project/
+├── app.py              # Python Flask/app entry point
+├── Dockerfile          # Container image definition
+├── Jenkinsfile         # CI/CD pipeline stages
+├── deployment.yaml     # Kubernetes Deployment manifest
+└── service.yml         # Kubernetes Service manifest
+```
+
+---
+
+## ⚙️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| **Python** | Application logic |
+| **Docker** | Containerization |
+| **Kubernetes** | Container orchestration & deployment |
+| **Jenkins** | CI/CD automation pipeline |
+
+---
+
+## 🔄 CI/CD Pipeline Flow
+
+```
+Code Push → Jenkins Trigger → Build Docker Image → Push to Registry → Deploy to Kubernetes
+```
+
+**Jenkinsfile stages:**
+1. **Checkout** — Pull source code from GitHub
+2. **Build** — Build Docker image
+3. **Test** — Run application tests
+4. **Push** — Push image to Docker registry
+5. **Deploy** — Apply Kubernetes manifests
+
+---
+
+## 🐳 Run with Docker
+
+```bash
+# Clone the repository
+git clone https://github.com/mohitkamboj0228-ops/devops-project.git
+cd devops-project
+
+# Build the Docker image
+docker build -t devops-app .
+
+# Run the container
+docker run -p 5000:5000 devops-app
+```
+
+---
+
+## ☸️ Deploy to Kubernetes
+
+```bash
+# Apply deployment
+kubectl apply -f deployment.yaml
+
+# Apply service
+kubectl apply -f service.yml
+
+# Check status
+kubectl get pods
+kubectl get services
+```
+
+---
+
+## 📋 Prerequisites
+
+- Docker 20.x+
+- Kubernetes (Minikube or any cluster)
+- Jenkins 2.x+
+- Python 3.x
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first.
+
+---
+
+## 📄 License
+
+This project is open source under the [MIT License](LICENSE).
+
+---
+
+<p align="center">Made with ❤️ by <a href="https://github.com/mohitkamboj0228-ops">Mohit Kamboj</a></p>
