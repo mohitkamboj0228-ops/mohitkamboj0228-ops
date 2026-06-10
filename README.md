@@ -24,7 +24,7 @@
 - 🤖 Automating infrastructure with **Ansible & Terraform IaC**
 - 🎓 BSc Graphic and Web designing
 - 🎓 AWS Solutions Architect Associate | Anthropic CCA-F Certified
-- 📍 Based in **Karnal, Haryana, India**
+- 📍 Based in **Gurgaon, Haryana, India**
 
 ---
 
