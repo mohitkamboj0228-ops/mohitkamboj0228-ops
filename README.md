@@ -22,7 +22,8 @@
 - 🔐 DevSecOps — security scanning with Trivy, Snyk & SonarQube
 - 📊 Monitoring with **Prometheus, Grafana, Zabbix & CloudWatch**
 - 🤖 Automating infrastructure with **Ansible & Terraform IaC**
-- 🎓 BSc Web/Multimedia | AWS Solutions Architect Associate | Anthropic CCA-F Certified
+- 🎓 BSc Graphic and Web designing
+- 🎓 AWS Solutions Architect Associate | Anthropic CCA-F Certified
 - 📍 Based in **Karnal, Haryana, India**
 
 ---
