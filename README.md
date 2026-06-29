@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💼 **DevOps Engineer Intern @ Mactores** | Ex Cloud Admin @ Amazl Inc (1.5 yrs)
+- 💼 **DevOps Engineer Intern @ Mactores** | Ex Cloud Admin @ Amazl Inc
 - ☁️ Working across **AWS, Azure & GCP** — cloud infrastructure and deployments
 - 🔧 Building with **Docker, Kubernetes, Jenkins, Helm & Terraform**
 - 🔐 DevSecOps — security scanning with Trivy, Snyk & SonarQube
