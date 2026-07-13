@@ -81,7 +81,7 @@
 |--------|-------------|------|
 | [🚀 devops-project](https://github.com/mohitkamboj0228-ops/devops-project) | Full CI/CD pipeline with Docker, Kubernetes & Jenkins | Python, Docker, K8s |
 | [🌐 plotlisting](https://github.com/mohitkamboj0228-ops/plotlisting) | Property listing web app with Dockerized deployment | JS, HTML, CSS, Docker |
-| [🐧 linux-basic-commands](https://github.com/mohitkamboj0228-ops/linux-basic-commands) | Linux file & directory operations reference | Bash/Linux |
+ [🤖 ai-backend-app](https://github.com/mohitkamboj0228-ops/ai-backend-app) | AI-powered backend application with REST APIs, containerized deployment, and cloud-ready architecture | Python, FastAPI, Docker |
 
 ---
 
