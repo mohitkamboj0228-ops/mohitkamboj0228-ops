@@ -3,6 +3,7 @@
 <p align="center">
   <b>Cloud Engineer | DevOps Engineer | DevSecOps Engineer</b><br/>
   <b>CI/CD | Docker | Kubernetes | AWS | Azure | GCP | Linux</b><br/>
+  <b>AI-Driven| LLM | Agentic AI | Claude Code | SDK | MCP</b><br/>
   <i>Building secure, reliable pipelines and scalable cloud infrastructure from Gurgaon, India 🇮🇳</i>
 </p>
 
@@ -20,6 +21,7 @@
 - ☁️ Working across **AWS, Azure & GCP** — cloud infrastructure and deployments
 - 🔧 Building with **Docker, Kubernetes, Jenkins, Helm & Terraform**
 - 🔐 DevSecOps — security scanning with Trivy, Snyk & SonarQube
+- 🤖 AI & Agentic AI: Generative AI, Agentic AI, LLMs, Claude, Claude Agent SDK, Prompt Engineering, MCP (Model Context Protocol), Ollama, AI-driven DevOps & DevSecOps Automation
 - 📊 Monitoring with **Prometheus, Grafana, Zabbix & CloudWatch**
 - 🤖 Automating infrastructure with **Ansible & Terraform IaC**
 - 🎓 BSc Graphic and Web designing
@@ -78,11 +80,13 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🚀 devops-project](https://github.com/mohitkamboj0228-ops/devops-project) | Full CI/CD pipeline with Docker, Kubernetes & Jenkins | Python, Docker, K8s |
-| [🌐 plotlisting](https://github.com/mohitkamboj0228-ops/plotlisting) | Property listing web app with Dockerized deployment | JS, HTML, CSS, Docker |
- [🤖 ai-backend-app](https://github.com/mohitkamboj0228-ops/ai-backend-app) | AI-powered backend application with REST APIs, containerized deployment, and cloud-ready architecture | Python, FastAPI, Docker |
+| Project                                                                        | Description                                                                                                                                       | Tech                                               |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 🚀 **[AegisOps AI](https://github.com/mohitkamboj0228-ops/aegisops-ai)**       | AI-powered **DevSecOps automation platform** with AI-assisted code analysis, security scanning, CI/CD automation, and cloud deployment workflows. | Python, AI/LLM, Docker, Kubernetes, GitHub Actions |
+| ⚙️ **[DevOps Project](https://github.com/mohitkamboj0228-ops/devops-project)** | Automated **CI/CD pipeline** for containerized applications with build, test, and deployment workflows.                                           | Python, Docker, Kubernetes, GitHub Actions         |
+| 🌐 **[PlotListing](https://github.com/mohitkamboj0228-ops/plotlisting)**       | Property listing web application with **Dockerized deployment**, demonstrating application containerization and deployment practices.             | JavaScript, HTML, CSS, Docker                      |
+| 🤖 **[AI Backend App](https://github.com/mohitkamboj0228-ops/ai-backend-app)** | AI-powered backend application providing **REST APIs**, containerized deployment, and a cloud-ready architecture.                                 | Python, FastAPI, AI/LLM, Docker                    |
+
 
 ---
 
