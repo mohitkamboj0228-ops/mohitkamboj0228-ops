@@ -1,11 +1,13 @@
-<h1 align="center"> Mohit Kamboj </h1>
+<h1 align="center">👋 Mohit Kamboj</h1>
 
 <p align="center">
-  <b>Cloud Engineer | DevOps Engineer | DevSecOps Engineer</b><br/>
-  <b>CI/CD | Docker | Kubernetes | AWS | Azure | GCP | Linux</b><br/>
-  <b>AI-Driven| LLM | Agentic AI | Claude Code | SDK | MCP</b><br/>
-  <i>Building secure, reliable pipelines and scalable cloud infrastructure from Gurgaon, India 🇮🇳</i>
+  <b>☁️ Cloud Engineer | ⚙️ DevOps Engineer | 🔐 DevSecOps Engineer</b><br/>
+  <b>AWS | Azure | GCP | Docker | Kubernetes | Terraform | GitHub Actions | Linux</b><br/>
+  <b>🤖 Generative AI | Agentic AI | LLMs | Claude | Claude Agent SDK | MCP</b><br/>
+  <i>Building secure, scalable cloud infrastructure, automated CI/CD pipelines, and AI-driven DevSecOps solutions.</i><br/><br/>
+  📍 <b>Gurgaon, India 🇮🇳</b>
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/mohit-kamboj-0bbb80245"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
