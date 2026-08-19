@@ -93,12 +93,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitkamboj0228-ops&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkamboj0228-ops&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitkamboj0228-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkamboj0228-ops&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohitkamboj0228-ops&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=mohitkamboj0228-ops&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitkamboj0228-ops&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
